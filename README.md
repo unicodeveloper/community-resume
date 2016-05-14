@@ -21,11 +21,11 @@ Andela is a global talent accelerator that identify high-potential developers on
 
 I work with a team of talented people that are helping groom the next generation of Software Engineers who will change the world.
 
-I develop the PHP, Javascript, Ruby, Python, Java and Soft Skills Learning curriculums alongside a team of other talented developer trainers. I also actively train and mentor these fellows in the art of crafting solid, well-tested & user-friendly software. These curriculums are currently been used in Nigeria and Kenya.
+I develop the PHP, Javascript, Ruby, Python, Java and Soft Skills Learning curriculums alongside a team of other talented developer trainers. These curriculums are currently been used in Nigeria and Kenya.
 
-I have over 4 years of experience working with PHP and Javascript.
+I also actively train and mentor these fellows(Nigeria and Kenya) in the art of crafting solid, well-tested & user-friendly software.
 
-I have about 2 years experience working with Java on Biometric Software Development.
+I have over 4 years of experience working with PHP and Javascript and about 2 years experience working with Java on Biometric Software Development.
 
 
 ## Reason for applying
