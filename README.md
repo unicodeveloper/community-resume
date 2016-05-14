@@ -14,14 +14,14 @@
 
 ## Current Job Profile
 
-**Andela**
-***November 2014 - Present***
-*Position - Technical Trainer*
+### Andela
+#### November 2014 - Present
+##### Position - Technical Trainer
 Andela is a global talent accelerator that identify high-potential developers on the African continent, shape them into world-class technical leaders, and pair them with companies all over the world as full-time, distributed team members.
 
 I work with a team of talented people that are helping groom the next generation of Software Engineers who will change the world.
 
-I develop the PHP, Javascript, Ruby, Python, Java and Soft Skills Learning curriculums alongside a team of other talented developer trainers. These curriculums are currently been used in Nigeria and Kenya.
+I develop the PHP, Javascript, Ruby, Python, Java and Soft Skills Learning curriculums alongside a team of other talented developer trainers. I also actively train and mentor these fellows in the art of crafting solid, well-tested & user-friendly software. These curriculums are currently been used in Nigeria and Kenya.
 
 I have over 4 years of experience working with PHP and Javascript.
 
@@ -45,15 +45,6 @@ I currently do not have any working relationship with Google in any capacity.
 
 ## Activity Details
 
-## PrittyNote [Social application, HTML5]
-
-Created/Updated: **April/September 13, 2014**
-
-Link: [PrittyNote(Play Store)](https://play.google.com/store/apps/details?id=com.prittyapp)
-
-PrittyNote makes digital images that would be the average size of a sticky note in real life and way much more cool. At PrittyNote we call the images “prittynote(s)”. Perceive real sticky notes that you've written a joke, advice, quote, lovely message, or anything and left somewhere a friend, relative, family or people can see. With prittynote you can share to any social platform e.g. Whatsapp, facebook, twitter, tumblr, instagram etc.
-
----
 
 ## BeMyApp Webinar
 Held on: **11 May, 2016**
@@ -269,6 +260,6 @@ Profile: [https://github.com/unicodeveloper](https://github.com/unicodeveloper)
 
 No of Followers: 253
 
-Contributed to and created several Open Source Projects.
+I consistently contribute and create several Open Source Projects.
 
 ---
