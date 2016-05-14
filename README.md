@@ -29,11 +29,11 @@ I have about 2 years experience working with Java on Biometric Software Developm
 
 
 ## Reason for applying
-I struggled a lot during my initial days of learning to become a developer. Honestly,the books and videos were there and easy to get from the internet but there was really no developer community in Nigeria. Overtime, I have discovered that there is nothing greater than community driven efforts in building products and providing easy entry for talented people to join the limited pool of developers and technologists currently available.
+I struggled a lot during my initial days of learning to become a developer. Honestly, the books and videos were there and easy to get from the internet but there was really no developer community in Nigeria. Overtime, I have discovered that there is nothing greater than community driven efforts in building products and providing easy entry for talented people to join the limited pool of developers and technologists currently available.
 
 I am very passionate about programming, building products(open-source and proprietary software) specifically with web technologies and mentoring passionate, talented minds in becoming world-class developers and technology leaders.
 
-As a Google Developer Expert, I'll have more resources and tools to be able to reach out to naturally intelligent fellows across remote parts of Africa and also around the world, providing them the opportunity to change the world by introducing them to web technologies.
+As a Google Developer Expert, I'll have more resources and tools to be able to reach out to naturally intelligent fellows across remote parts of Africa and also around the world, providing them the opportunity to change the world by introducing them to web technologies and mentoring them alongside.
 
 As a Google Developer Expert, I'll be a part of a community of talented developer experts and Googlers which provides me an incredible opportunity to grow in leaps and bounds as a programmer, trainer, author and developer evangelist.
 
@@ -70,13 +70,13 @@ Attendance: **50**
 
 This event envisions to be a developer event where software developers can come together, interact, and share knowledge on different technologies. This was the maiden edition.
 
-I Spoke about `Continuous Delivery Without The Drama` at this event.
+I Spoke about **Continuous Delivery Without The Drama** at this event.
 
 Slides Link: [Continuous Delivery Without The Drama](https://speakerdeck.com/unicodeveloper/continuous-delivery-without-the-drama)
 
-Registration is ongoing for the `Abuja` forLoop Event - [https://attending.io/events/forloop-2016-abuja-94bf9b3b-a055-4471-811b-bf541442c0c7](https://attending.io/events/forloop-2016-abuja-94bf9b3b-a055-4471-811b-bf541442c0c7) **20 People currently registered**
+Registration is ongoing for the `Abuja` forLoop Event - [Abuja forLoop Event](https://attending.io/events/forloop-2016-abuja-94bf9b3b-a055-4471-811b-bf541442c0c7) **20 People currently registered**
 
-Registration is ongoing for the second edition of the forLoop Event - [https://attending.io/events/forloop-2016-2](https://attending.io/events/forloop-2016-2) **64 People currently registered**
+Registration is ongoing for the second edition of the forLoop Event - [Lagos forLoop #2](https://attending.io/events/forloop-2016-2) **64 People currently registered**
 
 ---
 
