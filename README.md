@@ -323,5 +323,6 @@ According to [Github Awards](http://github-awards.com) :
 
 Currently:
 
-I am the [No 1 Top PHP GitHub Developer](http://github-awards.com/users?utf8=%E2%9C%93&type=country&language=php&country=Nigeria) in Nigeria, while my GoodHeads Organization is No 3.
+I am the [No 1 Top PHP GitHub Developer](http://github-awards.com/users?utf8=%E2%9C%93&type=country&language=php&country=Nigeria) in Nigeria, while my [GoodHeads Organization](https://github.com/goodheads) is No 3.
+
 I am the [No 2 Top Javascript GitHub Developer](http://github-awards.com/users?utf8=%E2%9C%93&type=country&language=javascript&country=Nigeria) in Nigeria.
