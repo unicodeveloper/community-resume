@@ -134,9 +134,8 @@ I was a **Mentor** at this great hackathon event. The event was hosted by [http:
 
 I had the opportunity to mentor 2 Teams. Both teams developed their apps using Google Technologies (AngularJS)
 
-Links:
+Links: [Break Poverty Hackathon Page](http://devswithoutborders.org/breakpoverty)
 
-[Break Poverty Hackathon Page](http://devswithoutborders.org/breakpoverty)
 [Break Poverty EventBrite Page](http://www.eventbrite.ca/e/break-poverty-hackathon-nairobi-tickets-19083764052)
 
 Me on the Left: :smile:
@@ -165,14 +164,20 @@ Created on: **February 28, 2015**
 
 Link: [https://github.com/unicodeveloper/laravel-hackathon-starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
 
-Stars: **841**
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=laravel-hackathon-starter&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=laravel-hackathon-starter&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=laravel-hackathon-starter&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
 
 Created a Hackathon boilerplate in Laravel.
-Purpose:
-  * To help developers accelerate application development during Hackathons
-  * To help developers rapidly push out MVPs
 
-Features:
+**Purpose:**
+  * To help developers accelerate application development during Hackathons.
+  * To help developers rapidly push out MVPs.
+
+**Features:**
   * Local Authentication using Email and Password
   * OAuth 1.0a Authentication via Twitter
   * OAuth 2.0 Authentication via Facebook, Google, GitHub, LinkedIn, Instagram
@@ -181,8 +186,9 @@ Features:
   * Account Management
   * Integration of about 18 APIs out of the box
 
-The Project got trending on Github for a week. I become the second most trending PHP developer just after Google.
-Article: http://techcrunch-africa.com/community/a-single-andela-developer-defeats-facebook-on-githubs-trending-list/
+The Project got trending on Github for a week. I also became the second most trending PHP developer in the world just after Google.
+
+**Article:** http://techcrunch-africa.com/community/a-single-andela-developer-defeats-facebook-on-githubs-trending-list/
 
 ---
 
@@ -191,7 +197,13 @@ Started on: **March 24, 2015**
 
 Link: [https://github.com/unicodeveloper/awesome-opensource-webapps](https://github.com/unicodeveloper/awesome-opensource-webapps)
 
-Stars: **202**
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=awesome-opensource-webapps&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=awesome-opensource-webapps&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=awesome-opensource-webapps&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
 
 Created an awesome curated list of open source crafted web applications for learning purposes.
 
@@ -202,11 +214,20 @@ I wanted developers to easily find how to implement certain features, unit/integ
 ## Meanmap
 Started on: **June 9, 2015**
 
-Link: [https://github.com/unicodeveloper/meanmap](https://github.com/unicodeveloper/meanmap)
-
 Meanmap is an interactive map for Mean Stack Developers all over the world. The mean stack has become one of the biggest communities of fans, contributors and backers worldwide. It provides an avenue where a mean stack developer can easily identify another developer in his local environment especially where there is no local meetup group.
 
-Technologies:
+Open Sourced it for Learning purposes. :blush:
+
+Link: [https://github.com/unicodeveloper/meanmap](https://github.com/unicodeveloper/meanmap)
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=meanmap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=meanmap&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=meanmap&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+
+**Technologies:**
   * MongoDB
   * ExpressJS
   * AngularJS
@@ -217,12 +238,22 @@ Technologies:
 ## Typing Speed Bot for Slack
 Started on: **March 26, 2015**
 
+Typing Speed bot is a bot that helps team members on Slack measure their typing speed. It maintains records of everyone's scores and generates leaderboards. Daily, Weekly and Monthly Leaderboards.
+
 Link: [https://github.com/unicodeveloper/typingspeed-bot](https://github.com/unicodeveloper/typingspeed-bot)
 
-Typing Speed bot is a bot that helps team members on Slack measure their typing speed. It maintains records of everyone's scores and posses leaderboards. Daily, Weekly and Monthly Leaderboards.
+Open Sourced it for Learning purposes. :blush:
 
-Technologies:
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=typingspeed-bot&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=typingspeed-bot&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=typingspeed-bot&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+
+**Technologies:**
   * CoffeeScript
+  * Redis
   * Hubot framework
 
 ---
@@ -258,7 +289,10 @@ I have other articles that I have written on Medium too.
 ## Github Code contributor
 Profile: [https://github.com/unicodeveloper](https://github.com/unicodeveloper)
 
-No of Followers: 253
+I am very active on Github. I also have an insatiable passion for open source. Rarely a day goes by without me commiting to one or two repositories.
+
+<iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="30px"></iframe>
+
 
 I consistently contribute and create several Open Source Projects.
 
