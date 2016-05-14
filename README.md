@@ -263,11 +263,17 @@ Link: [https://github.com/unicodeveloper/typingspeed-bot](https://github.com/uni
 
 Open Sourced it for Learning purposes. :blush:
 
+<div>
 <iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=typingspeed-bot&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+</div>
 
+<div>
 <iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=typingspeed-bot&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>
+</div>
 
+<div>
 <iframe src="https://ghbtns.com/github-btn.html?user=unicodeveloper&repo=typingspeed-bot&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+</div>
 
 
 **Technologies:**
@@ -284,7 +290,7 @@ Total Number of Blog Posts: **100+**
 
 Here is the link to [http://goodheads.io](http://goodheads.io)
 
-Goodheads.io was created out of my desire to provide tutorials for developers to learn PHP, Git,  Javascript, MeanStack and Laravel. Currently, it has over 100 technical articles.
+[Goodheads.io](http://goodheads.io) was created out of my desire to provide tutorials for developers to learn PHP, Git,  Javascript, MeanStack and Laravel. Currently, it has over 100 technical articles.
 
 Very notable is a series I created on building a [project management app](https://github.com/goodheads/prego) that got lots of developers to start visiting the site as a technical resource.
 
