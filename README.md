@@ -33,7 +33,9 @@ I struggled a lot during my initial days of learning to become a developer. Hone
 
 I am very passionate about programming, building products(open-source and proprietary software) specifically with web technologies and mentoring passionate, talented minds in becoming world-class developers and technology leaders.
 
-As a Google Developer Expert, I'll have more resources and tools to be able to reach out to naturally intelligent fellows across remote parts of Africa and also around the world, providing them the opportunity to change the world by introducing them to web technologies and mentoring them alongside.
+I want to raise more developers that are passionate about the community. Developers that will go on to become speakers, advocates, authors and thought leaders. I want to inspire developers to be more than just code monkeys, developers that will mentor and be mentored. All these are geared towards having a very vibrant developer community.
+
+As a Google Developer Expert, I'll have more resources and tools to be able to reach out to fellows across remote parts of Africa and also around the world, providing them the opportunity to change the world by introducing them to web technologies and mentoring them alongside.
 
 As a Google Developer Expert, I'll be a part of a community of talented developer experts and Googlers which provides me an incredible opportunity to grow in leaps and bounds as a programmer, trainer, author and developer evangelist.
 
